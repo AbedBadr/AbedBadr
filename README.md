@@ -29,7 +29,7 @@
 ### Stats
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbedBadr&theme=tokyonight&layout=compact&langs_count=10&hide=html,css,scss,cython,smalltalk" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbedBadr&theme=tokyonight&layout=compact&langs_count=10&hide=html,css,scss,cython,smalltalk&size_weight=0.5&count_weight=0.5" alt="Top Langs">
 </div>
 
 <div align=center>
